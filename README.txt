@@ -33,3 +33,19 @@ Version 1.02:
 +Code gọn hơn và rõ ràng hơn, MSSV được tối ưa hơn trong nhiều trường hợp
 +Tạo ra nhiều hàm để làm gọn code trong hàm main : InputInfo(), printInfo(),StartProgam,EndProgam(),Functionprogam(),Pause() 
 +Thêm các tính năng mới
+
+Version 1.03:
+
+-Phát triển và hoàn thiện chương trình
+
+-Chức năng version 1.03:
++Có những chức năng từ v1.02
++Xoá Sinh viên hoàn thiện
++Xoá toàn bộ thông tin sinh viên
++Tìm kiếm sinh viên
++Sửa thông tin SV
+
+-Thay đổi so vs 1.02:
++Code tối ưa và sử dụng trong nhiều TH hơn ( Đổi cách truy cập phần tử so vs 1.02)
++Tạo ra thêm hàm để làm gọn code main : Continue()
++Thêm các tính năng mới

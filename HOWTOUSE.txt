@@ -1,0 +1,42 @@
+Phiên bản cách sử dụng đang chỉ : 1.03
+
+Cách sử dụng chương trình : 
+
+0.Sử dụng chức năng của chương trình : Nhập các số ở đầu mổi chức năng để sử dụng
+
+1.Nhập Thông Tin Sinh viên :
++Nếu muốn nhập tay thì lúc chương trình hiện ra dòng chữ "Random or Not" : Ghi gì cũng được và bấm enter
+Nếu muốn tự động theo những gì mà chương trình cung cấp sẵn thì bấm Random
+
++Nhập chỉ có thể tối đa 10 để phục vụ cho chương trình Random, Nếu nhập quá 10 ở phần Random thì sẽ bị crash chương trình
++Có thể nhập tay quá 10 nếu xoá code ở 2 dòng 236 và 241
+
+2.Sắp xếp điểm:
++Sắp xếp theo điểm môn nào thì nhập môn đó theo tiếng anh và nhập 3 chữ đầu 
+Vd : Toán thì nhập là Math(Ngoại lệ), Anh thì nhập Eng, ĐTB thì nhập Avg
+
+3.Thay đổi Thông tin SV:
+
++Nhập tên Sinh viên cần thay đổi . Lưa ý : Đúng từng chữ cái và in hoa
++Nhập thông tin cần thay đổi : Nhập các thông tin ở đầu dòng để thay đổi
+ 
+Name||Age||Gender||Address||Math_S||Lit_S||Eng_S||Phy_S||Che_S||Avg_S
+
+Vd: Nhập Name để thay đổi tên,..., Nếu muốn thay đổi điểm thì nhập như ở mục 2
+
++Sau khi sửa xong nếu muốn sửa tiếp thì bấm y không thì phím nào cũng được và Enter
++Nếu muốn sửa tiếp sinh viên đang sửa thì bấm 0 không thì phím nào cũng được. Chương trình sẽ đưa bạn về lại mục nhập tên
+
+Lưa ý : Khi sửa xong lần đầu và sửa tiếp thì dù là sinh viên cũ hay mới thì Nhập Age cũng sẽ bị crash chương trình . Cách fix : Đợi tác giả fix ở bản 1.04
+
+4.Nhập Thêm SV :
++Như mục 1 nhưng có không phần Random SV
++Có thể nhập tay hơn 10 người mà không cần xoá gì hết
+
+5.Xoá màn hình:
++Mục này khi chương trình xoá xong sẽ hiện ra : Press Any Key To continue : Nhập bất cứ phím nào để tiếp tục
++Mục đích của Press Any Key : Làm màu cho vui
+
+6.Kết thúc và lặp lại chương trình
++Kết thúc chương trình thì khi hiện ra chức năng bấm phím 8 để kết thúc
++Lặp lại khi kết thúc sử dụng một chức năng, Nhập YES để tiếp tục không thì bấm phím gì cũng được
